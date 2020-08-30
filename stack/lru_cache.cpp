@@ -1,4 +1,4 @@
-
+// https://practice.geeksforgeeks.org/problems/lru-cache/1
 int cap=0;
 map<int,int> mp;
 deque<int> q;

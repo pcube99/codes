@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/rightmost-different-bit/0
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not/0
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

@@ -1,3 +1,4 @@
+// https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits/0
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
