@@ -1,4 +1,6 @@
-oid countDistinct(int arr[], int k, int n) 
+// https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1
+
+void countDistinct(int arr[], int k, int n) 
 { 
     // Creates an empty hashmap hm 
     map<int, int> hm; 

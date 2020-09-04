@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

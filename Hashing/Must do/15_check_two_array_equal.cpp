@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not/0
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

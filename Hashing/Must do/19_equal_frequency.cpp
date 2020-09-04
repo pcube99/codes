@@ -1,3 +1,7 @@
+// https://practice.geeksforgeeks.org/problems/check-frequencies/0
+
+// https://www.geeksforgeeks.org/check-if-frequency-of-all-characters-can-become-same-by-one-removal/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

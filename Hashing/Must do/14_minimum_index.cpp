@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/minimum-indexed-character/0
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

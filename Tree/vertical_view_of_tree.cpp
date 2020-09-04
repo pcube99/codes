@@ -1,3 +1,25 @@
+// https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/
+
+// output in level order
+vector<vector<int> > Solution::verticalOrderTraversal(TreeNode* a) {
+    map<int,vector<int>> m;
+    queue<pair<int,TreeNode *>>q;
+    if(!a) return {};
+    q.emplace(0,a);
+    while(!q.empty())
+    {
+        auto[dist,temp]=q.front();
+        q.pop();
+        m[dist].push_back(temp->val);
+        if(temp->left) q.emplace(dist-1,temp->left);
+        if(temp->right) q.emplace(dist+1,temp->right);
+    }
+    vector<vector<int>> vec;
+    for(auto &i : m) vec.push_back(i.second);
+    return vec;
+}
+
+// output in preorder
 void mpp(map<int,vector<int>> &mp, Node* a,int level){
     if(a==NULL)
         return;

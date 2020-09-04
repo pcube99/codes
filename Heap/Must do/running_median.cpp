@@ -1,4 +1,8 @@
 //https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
+
+// https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/
+
+// https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;

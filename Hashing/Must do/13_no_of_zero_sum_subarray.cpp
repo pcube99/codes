@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

@@ -1,4 +1,6 @@
 //https://www.geeksforgeeks.org/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k/
+
+// https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

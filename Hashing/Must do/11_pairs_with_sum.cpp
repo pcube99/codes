@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
