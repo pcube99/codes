@@ -1,3 +1,6 @@
+// https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0
+// https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

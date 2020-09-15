@@ -1,3 +1,7 @@
+// https://www.interviewbit.com/problems/implement-strstr/
+// https://practice.geeksforgeeks.org/problems/implement-strstr/1
+
+// kmp algorithm
 int Solution::strStr(const string a, const string b) {
     if(a.size() == 0 || b.size() ==0)   
         return -1;

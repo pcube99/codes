@@ -1,3 +1,5 @@
+// https://www.interviewbit.com/problems/longest-common-prefix/
+// https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

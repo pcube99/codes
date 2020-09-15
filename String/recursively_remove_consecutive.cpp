@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/
+
 #include<bits/stdc++.h>
 using namespace std;
     

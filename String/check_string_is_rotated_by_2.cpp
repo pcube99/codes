@@ -1,3 +1,7 @@
+// https://www.geeksforgeeks.org/check-string-can-obtained-rotating-another-string-2-places/
+
+// https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
