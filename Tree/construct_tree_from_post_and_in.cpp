@@ -1,12 +1,5 @@
-/**
- * Definition for binary tree
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
+// https://www.interviewbit.com/problems/binary-tree-from-inorder-and-postorder/
+
 TreeNode* build(vector<int> &in, vector<int> &post, int start,int end, int &index){
     if(start > end)
         return NULL;

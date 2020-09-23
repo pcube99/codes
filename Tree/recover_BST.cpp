@@ -1,12 +1,6 @@
-/**
- * Definition for binary tree
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
+// https://www.interviewbit.com/problems/recover-binary-search-tree/
+
+
 void check(TreeNode* a,TreeNode*& prev,TreeNode*& f,TreeNode*& m,TreeNode*& l){
     if(a == NULL)
         return;
